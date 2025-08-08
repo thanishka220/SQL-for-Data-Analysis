@@ -22,7 +22,6 @@ To extract business insights by executing SQL queries on e-commerce sales data â
 
 ## ðŸ” Key SQL Tasks Performed
 
-> Only a high-level summary of SQL queries is presented below.
 
 1. **Total Orders by Country**  
    - Counted the number of transactions grouped by country.
